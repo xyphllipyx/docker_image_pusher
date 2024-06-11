@@ -1,3 +1,4 @@
 xhofe/alist
 cloudnas/clouddrive2
 linuxserver/plex
+gdy666/lucky
